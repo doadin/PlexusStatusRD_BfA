@@ -9,4 +9,5 @@
 CheckCompat.lua
 Uldir.lua
 Azeroth.lua
+BattleofDazaralor.lua
 

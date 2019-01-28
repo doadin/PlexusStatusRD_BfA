@@ -2,6 +2,31 @@
 local zoneid = 1358
 
 -- Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 289384, 1, 5, 5, true) --Savage Swipe
+GridStatusRaidDebuff:DebuffId(zoneid, 287437, 1, 5, 5, true) --Frozen Beam
+GridStatusRaidDebuff:DebuffId(zoneid, 287294, 1, 5, 5, true) --Blizzard
+GridStatusRaidDebuff:DebuffId(zoneid, 286740, 1, 5, 5, true) --Light's Fury
+GridStatusRaidDebuff:DebuffId(zoneid, 285250, 1, 5, 5, true) --Sundering Slam
+GridStatusRaidDebuff:DebuffId(zoneid, 289645, 1, 5, 5, true) --Polymorph
+GridStatusRaidDebuff:DebuffId(zoneid, 289578, 1, 5, 5, true) --Lit Torch
+GridStatusRaidDebuff:DebuffId(zoneid, 287325, 1, 5, 5, true) --Comet Storm
+GridStatusRaidDebuff:DebuffId(zoneid, 289772, 1, 5, 5, true) --Impale
+GridStatusRaidDebuff:DebuffId(zoneid, 285292, 1, 5, 5, true) --Frozen Tides
+GridStatusRaidDebuff:DebuffId(zoneid, 285280, 1, 5, 5, true) --Searing Waves
+GridStatusRaidDebuff:DebuffId(zoneid, 287147, 1, 5, 5, true) --Dread Reaping
+GridStatusRaidDebuff:DebuffId(zoneid, 284573, 1, 5, 5, true) --Tailwinds
+GridStatusRaidDebuff:DebuffId(zoneid, 253562, 1, 5, 5, true) --Wildfire
+GridStatusRaidDebuff:DebuffId(zoneid, 289917, 1, 5, 5, true) --Bwonsamdi's Pact
+GridStatusRaidDebuff:DebuffId(zoneid, 289418, 1, 5, 5, true) --Predator's Gaze
+GridStatusRaidDebuff:DebuffId(zoneid, 287295, 1, 5, 5, true) --Chilled
+GridStatusRaidDebuff:DebuffId(zoneid, 289937, 1, 5, 5, true) --Thundering Slam
+GridStatusRaidDebuff:DebuffId(zoneid, 289514, 1, 5, 5, true) --Molten Ground
+GridStatusRaidDebuff:DebuffId(zoneid, 289512, 1, 5, 5, true) --Molten Punch
+GridStatusRaidDebuff:DebuffId(zoneid, 289373, 1, 5, 5, true) --Lacerating Pounce
+GridStatusRaidDebuff:DebuffId(zoneid, 287456, 1, 5, 5, true) --Frost Nova
+GridStatusRaidDebuff:DebuffId(zoneid, 287556, 1, 5, 5, true) --Soul Barrage
+GridStatusRaidDebuff:DebuffId(zoneid, 289484, 1, 5, 5, true) --Burning Bite
+GridStatusRaidDebuff:DebuffId(zoneid, 289918, 1, 5, 5, true) --Bwonsamdi's Bargain
 
 -- Champion of the Light
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Champion of the Light")

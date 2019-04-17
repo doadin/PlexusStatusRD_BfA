@@ -1,0 +1,3 @@
+package-as: GridStatusRD_BfA
+ignore:
+ - .pkgmeta

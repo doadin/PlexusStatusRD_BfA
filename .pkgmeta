@@ -1,3 +1,4 @@
 package-as: GridStatusRD_BfA
 ignore:
  - .pkgmeta
+ - .travis.yml

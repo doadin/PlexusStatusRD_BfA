@@ -19,3 +19,4 @@ Azeroth.lua
 BattleofDazaralor.lua
 CrucibleofStorms.lua
 TheEternalPalace.lua
+Nyalotha.lua

@@ -1,4 +1,4 @@
-package-as: GridStatusRD_BfA
+package-as: PlexusStatusRD_BfA
 ignore:
  - .pkgmeta
  - .travis.yml
